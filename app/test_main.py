@@ -22,9 +22,9 @@ try:
         assert response.json() == {
         "id": 1,
         "address":"bangalore",
-        "email": "shreyassureshrao@gmail.com",
-        "mobile":9591782068,
-        "name":"Shreyas Rao"
+        "email": "shuklaayush00@gmail.com",
+        "mobile":1234567,
+        "name":"Ayush Shukla"
         }
        
 # the errror_message provided by the user gets printed
